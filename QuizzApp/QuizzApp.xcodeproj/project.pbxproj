@@ -21,6 +21,37 @@
 		663B45FF192D4E5D001DA9DE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 663B45E1192D4E5D001DA9DE /* UIKit.framework */; };
 		663B4607192D4E5D001DA9DE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 663B4605192D4E5D001DA9DE /* InfoPlist.strings */; };
 		663B4609192D4E5D001DA9DE /* QuizzAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 663B4608192D4E5D001DA9DE /* QuizzAppTests.m */; };
+		663EC3B1192D559400BF0D0A /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 663EC3B0192D559400BF0D0A /* CoreText.framework */; };
+		663EC3BA192D62BE00BF0D0A /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 663EC3B9192D62BE00BF0D0A /* background.jpg */; };
+		664C757F192D7C3100A369A5 /* man.png in Resources */ = {isa = PBXBuildFile; fileRef = 664C757E192D7C3100A369A5 /* man.png */; };
+		664C7582192D811200A369A5 /* mancorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 664C7580192D811200A369A5 /* mancorrect.png */; };
+		664C7585192D81CD00A369A5 /* girl.png in Resources */ = {isa = PBXBuildFile; fileRef = 664C7584192D81CD00A369A5 /* girl.png */; };
+		6660C9E2192D919500EA93AF /* girlincorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 6660C9E1192D919500EA93AF /* girlincorrect.png */; };
+		6660C9E4192D93CF00EA93AF /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6660C9E3192D93CF00EA93AF /* CoreAudio.framework */; };
+		6660C9E6192D945400EA93AF /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6660C9E5192D945400EA93AF /* AudioToolbox.framework */; };
+		6660C9E8192D963600EA93AF /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6660C9E7192D963600EA93AF /* CoreFoundation.framework */; };
+		6660C9F3192DA60600EA93AF /* yay.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6660C9F2192DA60600EA93AF /* yay.wav */; };
+		6688123B192D65FE001E5B30 /* Lato-Bla.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881231192D65FE001E5B30 /* Lato-Bla.ttf */; };
+		6688123C192D65FE001E5B30 /* Lato-BlaIta.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881232192D65FE001E5B30 /* Lato-BlaIta.ttf */; };
+		6688123D192D65FE001E5B30 /* Lato-Bol.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881233192D65FE001E5B30 /* Lato-Bol.ttf */; };
+		6688123E192D65FE001E5B30 /* Lato-BolIta.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881234192D65FE001E5B30 /* Lato-BolIta.ttf */; };
+		6688123F192D65FE001E5B30 /* Lato-Hai.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881235192D65FE001E5B30 /* Lato-Hai.ttf */; };
+		66881240192D65FE001E5B30 /* Lato-HaiIta.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881236192D65FE001E5B30 /* Lato-HaiIta.ttf */; };
+		66881241192D65FE001E5B30 /* Lato-Lig.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881237192D65FE001E5B30 /* Lato-Lig.ttf */; };
+		66881242192D65FE001E5B30 /* Lato-LigIta.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881238192D65FE001E5B30 /* Lato-LigIta.ttf */; };
+		66881243192D65FE001E5B30 /* Lato-Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66881239192D65FE001E5B30 /* Lato-Reg.ttf */; };
+		66881244192D65FE001E5B30 /* Lato-RegIta.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6688123A192D65FE001E5B30 /* Lato-RegIta.ttf */; };
+		669998FF192E3CFF00A20AE8 /* bowling.png in Resources */ = {isa = PBXBuildFile; fileRef = 669998FD192E3CFF00A20AE8 /* bowling.png */; };
+		66999900192E3CFF00A20AE8 /* skateboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 669998FE192E3CFF00A20AE8 /* skateboard.png */; };
+		66999903192E3F4200A20AE8 /* bowlingincorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999901192E3F4200A20AE8 /* bowlingincorrect.png */; };
+		66999904192E3F4200A20AE8 /* skateboardcorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999902192E3F4200A20AE8 /* skateboardcorrect.png */; };
+		6699990B192E454A00A20AE8 /* dj.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999905192E454A00A20AE8 /* dj.png */; };
+		6699990C192E454A00A20AE8 /* djcorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999906192E454A00A20AE8 /* djcorrect.png */; };
+		6699990D192E454A00A20AE8 /* joystick.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999907192E454A00A20AE8 /* joystick.png */; };
+		6699990E192E454A00A20AE8 /* joystickcorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999908192E454A00A20AE8 /* joystickcorrect.png */; };
+		6699990F192E454A00A20AE8 /* shirt.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999909192E454A00A20AE8 /* shirt.png */; };
+		66999910192E454A00A20AE8 /* shirtincorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = 6699990A192E454A00A20AE8 /* shirtincorrect.png */; };
+		8A1908B085804CBBA00F10A0 /* libPods-QuizzApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 40A89754492841C8AFA8F3F1 /* libPods-QuizzApp.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +65,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		40A89754492841C8AFA8F3F1 /* libPods-QuizzApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-QuizzApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E98CA2E0E104257985A3E29 /* Pods-QuizzApp.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuizzApp.xcconfig"; path = "Pods/Pods-QuizzApp.xcconfig"; sourceTree = "<group>"; };
 		663B45DA192D4E5D001DA9DE /* QuizzApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizzApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		663B45DD192D4E5D001DA9DE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		663B45DF192D4E5D001DA9DE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +86,36 @@
 		663B4604192D4E5D001DA9DE /* QuizzAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuizzAppTests-Info.plist"; sourceTree = "<group>"; };
 		663B4606192D4E5D001DA9DE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		663B4608192D4E5D001DA9DE /* QuizzAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuizzAppTests.m; sourceTree = "<group>"; };
+		663EC3B0192D559400BF0D0A /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		663EC3B9192D62BE00BF0D0A /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpg; path = ../../../../../Design/iOS/background.jpg; sourceTree = "<group>"; };
+		664C757E192D7C3100A369A5 /* man.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = man.png; sourceTree = "<group>"; };
+		664C7580192D811200A369A5 /* mancorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mancorrect.png; sourceTree = "<group>"; };
+		664C7584192D81CD00A369A5 /* girl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = girl.png; sourceTree = "<group>"; };
+		6660C9E1192D919500EA93AF /* girlincorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = girlincorrect.png; sourceTree = "<group>"; };
+		6660C9E3192D93CF00EA93AF /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		6660C9E5192D945400EA93AF /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		6660C9E7192D963600EA93AF /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		6660C9F2192DA60600EA93AF /* yay.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = yay.wav; sourceTree = "<group>"; };
+		66881231192D65FE001E5B30 /* Lato-Bla.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bla.ttf"; sourceTree = "<group>"; };
+		66881232192D65FE001E5B30 /* Lato-BlaIta.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BlaIta.ttf"; sourceTree = "<group>"; };
+		66881233192D65FE001E5B30 /* Lato-Bol.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bol.ttf"; sourceTree = "<group>"; };
+		66881234192D65FE001E5B30 /* Lato-BolIta.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BolIta.ttf"; sourceTree = "<group>"; };
+		66881235192D65FE001E5B30 /* Lato-Hai.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Hai.ttf"; sourceTree = "<group>"; };
+		66881236192D65FE001E5B30 /* Lato-HaiIta.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-HaiIta.ttf"; sourceTree = "<group>"; };
+		66881237192D65FE001E5B30 /* Lato-Lig.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Lig.ttf"; sourceTree = "<group>"; };
+		66881238192D65FE001E5B30 /* Lato-LigIta.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-LigIta.ttf"; sourceTree = "<group>"; };
+		66881239192D65FE001E5B30 /* Lato-Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Reg.ttf"; sourceTree = "<group>"; };
+		6688123A192D65FE001E5B30 /* Lato-RegIta.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-RegIta.ttf"; sourceTree = "<group>"; };
+		669998FD192E3CFF00A20AE8 /* bowling.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bowling.png; sourceTree = "<group>"; };
+		669998FE192E3CFF00A20AE8 /* skateboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skateboard.png; sourceTree = "<group>"; };
+		66999901192E3F4200A20AE8 /* bowlingincorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bowlingincorrect.png; sourceTree = "<group>"; };
+		66999902192E3F4200A20AE8 /* skateboardcorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skateboardcorrect.png; sourceTree = "<group>"; };
+		66999905192E454A00A20AE8 /* dj.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dj.png; sourceTree = "<group>"; };
+		66999906192E454A00A20AE8 /* djcorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = djcorrect.png; sourceTree = "<group>"; };
+		66999907192E454A00A20AE8 /* joystick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = joystick.png; sourceTree = "<group>"; };
+		66999908192E454A00A20AE8 /* joystickcorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = joystickcorrect.png; sourceTree = "<group>"; };
+		66999909192E454A00A20AE8 /* shirt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shirt.png; sourceTree = "<group>"; };
+		6699990A192E454A00A20AE8 /* shirtincorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shirtincorrect.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +123,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6660C9E8192D963600EA93AF /* CoreFoundation.framework in Frameworks */,
+				6660C9E6192D945400EA93AF /* AudioToolbox.framework in Frameworks */,
+				6660C9E4192D93CF00EA93AF /* CoreAudio.framework in Frameworks */,
+				663EC3B1192D559400BF0D0A /* CoreText.framework in Frameworks */,
 				663B45E0192D4E5D001DA9DE /* CoreGraphics.framework in Frameworks */,
 				663B45E2192D4E5D001DA9DE /* UIKit.framework in Frameworks */,
 				663B45DE192D4E5D001DA9DE /* Foundation.framework in Frameworks */,
+				8A1908B085804CBBA00F10A0 /* libPods-QuizzApp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,6 +154,7 @@
 				663B4602192D4E5D001DA9DE /* QuizzAppTests */,
 				663B45DC192D4E5D001DA9DE /* Frameworks */,
 				663B45DB192D4E5D001DA9DE /* Products */,
+				5E98CA2E0E104257985A3E29 /* Pods-QuizzApp.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,10 +170,15 @@
 		663B45DC192D4E5D001DA9DE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6660C9E7192D963600EA93AF /* CoreFoundation.framework */,
+				6660C9E5192D945400EA93AF /* AudioToolbox.framework */,
+				6660C9E3192D93CF00EA93AF /* CoreAudio.framework */,
+				663EC3B0192D559400BF0D0A /* CoreText.framework */,
 				663B45DD192D4E5D001DA9DE /* Foundation.framework */,
 				663B45DF192D4E5D001DA9DE /* CoreGraphics.framework */,
 				663B45E1192D4E5D001DA9DE /* UIKit.framework */,
 				663B45FC192D4E5D001DA9DE /* XCTest.framework */,
+				40A89754492841C8AFA8F3F1 /* libPods-QuizzApp.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,12 +186,12 @@
 		663B45E3192D4E5D001DA9DE /* QuizzApp */ = {
 			isa = PBXGroup;
 			children = (
-				663B45EC192D4E5D001DA9DE /* ARAppDelegate.h */,
-				663B45ED192D4E5D001DA9DE /* ARAppDelegate.m */,
+				6660C9F2192DA60600EA93AF /* yay.wav */,
 				663B45EF192D4E5D001DA9DE /* Main.storyboard */,
 				663B45F2192D4E5D001DA9DE /* ARViewController.h */,
 				663B45F3192D4E5D001DA9DE /* ARViewController.m */,
 				663B45F5192D4E5D001DA9DE /* Images.xcassets */,
+				663BB82B192D68F500C96D8A /* Resources */,
 				663B45E4192D4E5D001DA9DE /* Supporting Files */,
 			);
 			path = QuizzApp;
@@ -126,6 +200,10 @@
 		663B45E4192D4E5D001DA9DE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6660C9EF192DA5BC00EA93AF /* Music */,
+				663EC3B2192D5C5900BF0D0A /* Images */,
+				663B45EC192D4E5D001DA9DE /* ARAppDelegate.h */,
+				663B45ED192D4E5D001DA9DE /* ARAppDelegate.m */,
 				663B45E5192D4E5D001DA9DE /* QuizzApp-Info.plist */,
 				663B45E6192D4E5D001DA9DE /* InfoPlist.strings */,
 				663B45E9192D4E5D001DA9DE /* main.m */,
@@ -152,6 +230,52 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		663BB82B192D68F500C96D8A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				66881231192D65FE001E5B30 /* Lato-Bla.ttf */,
+				66881232192D65FE001E5B30 /* Lato-BlaIta.ttf */,
+				66881233192D65FE001E5B30 /* Lato-Bol.ttf */,
+				66881234192D65FE001E5B30 /* Lato-BolIta.ttf */,
+				66881235192D65FE001E5B30 /* Lato-Hai.ttf */,
+				66881236192D65FE001E5B30 /* Lato-HaiIta.ttf */,
+				66881237192D65FE001E5B30 /* Lato-Lig.ttf */,
+				66881238192D65FE001E5B30 /* Lato-LigIta.ttf */,
+				66881239192D65FE001E5B30 /* Lato-Reg.ttf */,
+				6688123A192D65FE001E5B30 /* Lato-RegIta.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		663EC3B2192D5C5900BF0D0A /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				66999905192E454A00A20AE8 /* dj.png */,
+				66999906192E454A00A20AE8 /* djcorrect.png */,
+				66999907192E454A00A20AE8 /* joystick.png */,
+				66999908192E454A00A20AE8 /* joystickcorrect.png */,
+				66999909192E454A00A20AE8 /* shirt.png */,
+				6699990A192E454A00A20AE8 /* shirtincorrect.png */,
+				66999901192E3F4200A20AE8 /* bowlingincorrect.png */,
+				66999902192E3F4200A20AE8 /* skateboardcorrect.png */,
+				669998FD192E3CFF00A20AE8 /* bowling.png */,
+				669998FE192E3CFF00A20AE8 /* skateboard.png */,
+				6660C9E1192D919500EA93AF /* girlincorrect.png */,
+				664C7584192D81CD00A369A5 /* girl.png */,
+				664C7580192D811200A369A5 /* mancorrect.png */,
+				664C757E192D7C3100A369A5 /* man.png */,
+				663EC3B9192D62BE00BF0D0A /* background.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		6660C9EF192DA5BC00EA93AF /* Music */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Music;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -159,9 +283,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 663B460C192D4E5D001DA9DE /* Build configuration list for PBXNativeTarget "QuizzApp" */;
 			buildPhases = (
+				39E4A4DDE0E84036B8EE90E2 /* Check Pods Manifest.lock */,
 				663B45D6192D4E5D001DA9DE /* Sources */,
 				663B45D7192D4E5D001DA9DE /* Frameworks */,
 				663B45D8192D4E5D001DA9DE /* Resources */,
+				12E03B9019FC4DCF9B54B9F6 /* Copy Pods Resources */,
+				663BB82C192D74B300C96D8A /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -229,9 +356,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66881244192D65FE001E5B30 /* Lato-RegIta.ttf in Resources */,
 				663B45F6192D4E5D001DA9DE /* Images.xcassets in Resources */,
+				66999904192E3F4200A20AE8 /* skateboardcorrect.png in Resources */,
+				66999910192E454A00A20AE8 /* shirtincorrect.png in Resources */,
+				6699990D192E454A00A20AE8 /* joystick.png in Resources */,
+				66881243192D65FE001E5B30 /* Lato-Reg.ttf in Resources */,
+				663EC3BA192D62BE00BF0D0A /* background.jpg in Resources */,
+				66881241192D65FE001E5B30 /* Lato-Lig.ttf in Resources */,
+				6688123F192D65FE001E5B30 /* Lato-Hai.ttf in Resources */,
+				6699990B192E454A00A20AE8 /* dj.png in Resources */,
+				664C757F192D7C3100A369A5 /* man.png in Resources */,
 				663B45E8192D4E5D001DA9DE /* InfoPlist.strings in Resources */,
+				66999903192E3F4200A20AE8 /* bowlingincorrect.png in Resources */,
+				6688123E192D65FE001E5B30 /* Lato-BolIta.ttf in Resources */,
+				6699990C192E454A00A20AE8 /* djcorrect.png in Resources */,
+				6660C9F3192DA60600EA93AF /* yay.wav in Resources */,
+				6699990E192E454A00A20AE8 /* joystickcorrect.png in Resources */,
+				66881242192D65FE001E5B30 /* Lato-LigIta.ttf in Resources */,
+				664C7585192D81CD00A369A5 /* girl.png in Resources */,
+				6688123C192D65FE001E5B30 /* Lato-BlaIta.ttf in Resources */,
 				663B45F1192D4E5D001DA9DE /* Main.storyboard in Resources */,
+				669998FF192E3CFF00A20AE8 /* bowling.png in Resources */,
+				6688123D192D65FE001E5B30 /* Lato-Bol.ttf in Resources */,
+				66881240192D65FE001E5B30 /* Lato-HaiIta.ttf in Resources */,
+				6688123B192D65FE001E5B30 /* Lato-Bla.ttf in Resources */,
+				664C7582192D811200A369A5 /* mancorrect.png in Resources */,
+				6660C9E2192D919500EA93AF /* girlincorrect.png in Resources */,
+				6699990F192E454A00A20AE8 /* shirt.png in Resources */,
+				66999900192E3CFF00A20AE8 /* skateboard.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +397,52 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		12E03B9019FC4DCF9B54B9F6 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-QuizzApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		39E4A4DDE0E84036B8EE90E2 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		663BB82C192D74B300C96D8A /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = "/bin/bash -e";
+			shellScript = "mdfind -onlyin \"${SRCROOT}\" \"kMDItemContentTypeTree == public.font\" -0 | sort -z | xargs -0 /usr/local/bin/moarfonts install";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		663B45D6192D4E5D001DA9DE /* Sources */ = {
@@ -374,12 +573,15 @@
 		};
 		663B460D192D4E5D001DA9DE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5E98CA2E0E104257985A3E29 /* Pods-QuizzApp.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QuizzApp/QuizzApp-Prefix.pch";
 				INFOPLIST_FILE = "QuizzApp/QuizzApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -387,12 +589,16 @@
 		};
 		663B460E192D4E5D001DA9DE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5E98CA2E0E104257985A3E29 /* Pods-QuizzApp.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QuizzApp/QuizzApp-Prefix.pch";
 				INFOPLIST_FILE = "QuizzApp/QuizzApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -457,6 +663,7 @@
 				663B460E192D4E5D001DA9DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		663B460F192D4E5D001DA9DE /* Build configuration list for PBXNativeTarget "QuizzAppTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +672,7 @@
 				663B4611192D4E5D001DA9DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
